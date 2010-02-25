@@ -13,4 +13,3 @@ lib/google_chart/pie_chart.rb
 lib/google_chart/scatter_chart.rb
 lib/google_chart/venn_diagram.rb
 lib/google_chart/financial_line_chart.rb
-lib/test.rb
