@@ -8,7 +8,7 @@ class Hoe
   def extra_deps; @extra_deps.reject { |x| Array(x).first == "hoe" } end
 end # copied from the Rakefile of the sup project
 
-Hoe.new('nzx-gchartrb', "0.8.1") do |p|
+Hoe.new('nzx-gchartrb', "0.8.2") do |p|
   p.rubyforge_name  = 'gchartrb'
   p.author          = 'Deepak Jois'
   p.email           = 'deepak.jois@gmail.com'
